@@ -5,18 +5,16 @@ PhonePe has become one of the most popular digital payment platforms in India, w
 We create a web app to analyse the Phonepe transaction and users depending on various Years, Quarters, States, and Types of transaction and give a Geographical and Geo visualization output based on given requirements.
 
 **Developer Guide :**
-- Tools install for this project 
+- Tools install for this project
+
 1.virtual code.
-  
 2.Jupyter notebook.
-
 3.Python 3.11.0 or higher.
-
 4.MySQL
-
 5.Git
 
 - **Requirement Libraries to Install :**
+
 pip install pandas
 pip install numpy
 pip install os
@@ -59,12 +57,17 @@ Finally, create a Dashboard by using Streamlit and applying selection and dropdo
 
 
 **Steps to use this UI and analysis :**
+
+
 Step 1.
 Select any one option fron All India or State wise or Top Ten categories.
+
 Step 2.
 Select any one option fron Transaction or User.
+
 Step 3.
 Select any Year, Quarter and additional required option.
+
 Step 4.
 Finally, You get the Geo Visualization Analysis or Bar chart Analysis and Table format Analysis
 
