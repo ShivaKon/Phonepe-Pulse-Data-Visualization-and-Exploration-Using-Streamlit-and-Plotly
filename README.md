@@ -16,13 +16,21 @@ We create a web app to analyse the Phonepe transaction and users depending on va
 - **Requirement Libraries to Install :**
 
 pip install pandas
+
 pip install numpy
+
 pip install os
+
 pip install json requests subprocess
+
 pip install mysql.connector
+
 pip install sqlalchemy
+
 pip install pymysql
+
 pip install streamlit
+
 pip install plotly.express
 
 
@@ -60,14 +68,11 @@ Finally, create a Dashboard by using Streamlit and applying selection and dropdo
 
 
 Step 1.
-Select any one option fron All India or State wise or Top Ten categories.
-
+Select any one option fron All India or State wise or Top Ten categories
 Step 2.
 Select any one option fron Transaction or User.
-
 Step 3.
 Select any Year, Quarter and additional required option.
-
 Step 4.
 Finally, You get the Geo Visualization Analysis or Bar chart Analysis and Table format Analysis
 
