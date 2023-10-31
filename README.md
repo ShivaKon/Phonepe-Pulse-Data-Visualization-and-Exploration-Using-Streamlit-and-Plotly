@@ -7,9 +7,13 @@ We create a web app to analyse the Phonepe transaction and users depending on va
 **Developer Guide :**
 - Tools install for this project 
 1.virtual code.
+  
 2.Jupyter notebook.
+
 3.Python 3.11.0 or higher.
+
 4.MySQL
+
 5.Git
 
 - **Requirement Libraries to Install :**
